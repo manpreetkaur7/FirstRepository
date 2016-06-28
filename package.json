@@ -1,0 +1,22 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "This is sample hello world app",
+  "main": "index.js",
+  "scripts": {
+    "test": "one"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manpreetkaur7/FirstRepository.git"
+  },
+  "keywords": [
+    "some"
+  ],
+  "author": "Manpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manpreetkaur7/FirstRepository/issues"
+  },
+  "homepage": "https://github.com/manpreetkaur7/FirstRepository#readme"
+}
